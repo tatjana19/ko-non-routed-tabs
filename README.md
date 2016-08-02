@@ -8,3 +8,5 @@ My attempt to integrate bootstrap tabs with knockout in the neatest way possible
   style="width: 100%; height: 300px"
   src="http://jsfiddle.net/astrapi69/17ahxhqk/embedded/">
 </iframe>
+
+<script async src="https://jsfiddle.net/astrapi69/17ahxhqk/embed/js,html,css,result/dark/"></script>
